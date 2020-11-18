@@ -2,6 +2,8 @@
 
 ## Introduction
 
+I MADE CHANGE
+
 In this project you will be styling a single page with your knowledge of CSS. The website is a marketing page for a restaurant in San Diego, CA called Fatuma Restaurant.
 
 The styles in your [design file](/design/desktop.jpg) try your best to make it look great, add bright colors, add proper paddings and margins.
